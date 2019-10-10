@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a209969877b45fd6992f7f8f289be23",
+    "revision": "b6e24138bca09d9fcef9a7718c581c12",
     "url": "/react_titan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_titan/static/css/2.713ef03a.chunk.css"
   },
   {
-    "revision": "ea69f97b0f64599ec142",
+    "revision": "c933eefe1975eecbcc3f",
     "url": "/react_titan/static/css/main.860ab573.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_titan/static/js/2.18ac4791.chunk.js"
   },
   {
-    "revision": "ea69f97b0f64599ec142",
-    "url": "/react_titan/static/js/main.6c515043.chunk.js"
+    "revision": "c933eefe1975eecbcc3f",
+    "url": "/react_titan/static/js/main.bfd9f086.chunk.js"
   },
   {
     "revision": "535291243aa0d503a301",
