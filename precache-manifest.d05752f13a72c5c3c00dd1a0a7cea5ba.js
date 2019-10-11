@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6e24138bca09d9fcef9a7718c581c12",
+    "revision": "1b5ba1b17cfe09ac1d2c2c1aab389d44",
     "url": "/react_titan/index.html"
   },
   {
-    "revision": "37a268639c189db1f3ec",
+    "revision": "94cb8227fad4e08809fc",
     "url": "/react_titan/static/css/2.713ef03a.chunk.css"
   },
   {
-    "revision": "c933eefe1975eecbcc3f",
-    "url": "/react_titan/static/css/main.860ab573.chunk.css"
+    "revision": "903e6892cd4a2664ad2d",
+    "url": "/react_titan/static/css/main.182a631f.chunk.css"
   },
   {
-    "revision": "37a268639c189db1f3ec",
-    "url": "/react_titan/static/js/2.18ac4791.chunk.js"
+    "revision": "94cb8227fad4e08809fc",
+    "url": "/react_titan/static/js/2.5314d109.chunk.js"
   },
   {
-    "revision": "c933eefe1975eecbcc3f",
-    "url": "/react_titan/static/js/main.bfd9f086.chunk.js"
+    "revision": "903e6892cd4a2664ad2d",
+    "url": "/react_titan/static/js/main.23804936.chunk.js"
   },
   {
     "revision": "535291243aa0d503a301",
@@ -74,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16da523a7dc3b097902a9865a97b4920",
     "url": "/react_titan/static/media/xiaofan.16da523a.JPG"
+  },
+  {
+    "revision": "78f280e95ba31b8861e8ca83a6fff7ea",
+    "url": "/react_titan/static/media/yaw.78f280e9.jpg"
   }
 ]);

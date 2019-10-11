@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react_titan/static/css/main.860ab573.chunk.css",
-    "main.js": "/react_titan/static/js/main.bfd9f086.chunk.js",
-    "main.js.map": "/react_titan/static/js/main.bfd9f086.chunk.js.map",
+    "main.css": "/react_titan/static/css/main.182a631f.chunk.css",
+    "main.js": "/react_titan/static/js/main.23804936.chunk.js",
+    "main.js.map": "/react_titan/static/js/main.23804936.chunk.js.map",
     "runtime~main.js": "/react_titan/static/js/runtime~main.f27e1c9f.js",
     "runtime~main.js.map": "/react_titan/static/js/runtime~main.f27e1c9f.js.map",
     "static/css/2.713ef03a.chunk.css": "/react_titan/static/css/2.713ef03a.chunk.css",
-    "static/js/2.18ac4791.chunk.js": "/react_titan/static/js/2.18ac4791.chunk.js",
-    "static/js/2.18ac4791.chunk.js.map": "/react_titan/static/js/2.18ac4791.chunk.js.map",
+    "static/js/2.5314d109.chunk.js": "/react_titan/static/js/2.5314d109.chunk.js",
+    "static/js/2.5314d109.chunk.js.map": "/react_titan/static/js/2.5314d109.chunk.js.map",
     "index.html": "/react_titan/index.html",
-    "precache-manifest.25be4cc7a9d83b89aa41ab7cce0b15c1.js": "/react_titan/precache-manifest.25be4cc7a9d83b89aa41ab7cce0b15c1.js",
+    "precache-manifest.d05752f13a72c5c3c00dd1a0a7cea5ba.js": "/react_titan/precache-manifest.d05752f13a72c5c3c00dd1a0a7cea5ba.js",
     "service-worker.js": "/react_titan/service-worker.js",
     "static/css/2.713ef03a.chunk.css.map": "/react_titan/static/css/2.713ef03a.chunk.css.map",
-    "static/css/main.860ab573.chunk.css.map": "/react_titan/static/css/main.860ab573.chunk.css.map",
+    "static/css/main.182a631f.chunk.css.map": "/react_titan/static/css/main.182a631f.chunk.css.map",
     "static/media/abdul.JPG": "/react_titan/static/media/abdul.0ded7d8a.JPG",
     "static/media/av.png": "/react_titan/static/media/av.d771b24a.png",
     "static/media/deep.png": "/react_titan/static/media/deep.44f1ecdd.png",
@@ -25,6 +25,7 @@
     "static/media/titan.JPG": "/react_titan/static/media/titan.b43fd365.JPG",
     "static/media/titan_2.png": "/react_titan/static/media/titan_2.027635fd.png",
     "static/media/vishal.JPG": "/react_titan/static/media/vishal.e1dbeb4f.JPG",
-    "static/media/xiaofan.JPG": "/react_titan/static/media/xiaofan.16da523a.JPG"
+    "static/media/xiaofan.JPG": "/react_titan/static/media/xiaofan.16da523a.JPG",
+    "static/media/yaw.jpg": "/react_titan/static/media/yaw.78f280e9.jpg"
   }
 }
